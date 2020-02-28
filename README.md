@@ -1,1 +1,2 @@
-"# Score_board_1" 
+![](ss1.png)
+gitgit add -A
