@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScoreBoard</string>
+    <string name="enter_the_target_run">Enter the target Run</string>
+    <string name="run_1">run+1</string>
+    <string name="run_2">run+2</string>
+    <string name="run_4">run+4</string>
+    <string name="run_6">run+6</string>
+
+    <string name="display_run">0</string>
+    <string name="score">Srilanka vs Pakistan</string>
+
+
+</resources>
