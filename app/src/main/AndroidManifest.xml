@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".main_score_board">
-            android:label = "Score Board"
+        <activity android:name=".main_score_board"
+
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=
-                    "com.example.scoreboard.main_score_board" />
+                    "com.example.scoreboard.MainActivity" />
          </activity>
 
         <activity android:name=".MainActivity">
